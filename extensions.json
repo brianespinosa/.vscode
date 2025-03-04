@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "andrewleedham.vscode-css-modules",
+    "clinyong.vscode-css-modules",
+    "codeandstuff.package-json-upgrade",
+    "dbaeumer.vscode-eslint",
+    "mgmcdermott.vscode-language-babel",
+  ],
+  "unwantedRecommendations": []
+}
