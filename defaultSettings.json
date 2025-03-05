@@ -42,16 +42,5 @@
   "prettier.requireConfig": true,
   "scss.validate": false,
   "stylelint.validate": ["css", "scss"]
-  // "workbench.colorCustomizations": {
-  //   "activityBar.activeBackground": "#259625",
-  //   "activityBar.activeBorder": "#5BD75B",
-  //   "activityBar.background": "#176017",
-  //   "activityBar.foreground": "#5BD75B",
-  //   "activityBar.inactiveForeground": "#259625",
-  //   "activityBarBadge.background": "#5BD75B",
-  //   "activityBarBadge.foreground": "#176017",
-  //   "list.hoverBackground": "#259625",
-  //   "list.activeSelectionBackground": "#176017",
-  //   "sideBarSectionHeader.background": "#176017",
-  // }
+  }
 }
