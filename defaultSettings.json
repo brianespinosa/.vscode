@@ -42,5 +42,4 @@
   "prettier.requireConfig": true,
   "scss.validate": false,
   "stylelint.validate": ["css", "scss"]
-  }
 }
