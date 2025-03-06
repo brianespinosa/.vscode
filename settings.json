@@ -9,6 +9,11 @@
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "coverage-gutters.customizable.context-menu": true,
+  "coverage-gutters.customizable.status-bar-toggler-watchCoverageAndVisibleEditors-enabled": true,
+  "coverage-gutters.showLineCoverage": true,
+  "coverage-gutters.showRulerCoverage": true,
+  "css.validate": false,
   "cssModules.camelCase": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
@@ -17,8 +22,10 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.tabSize": 2,
-  "emmet.excludeLanguages": ["markdown", "scss"],
+  "emmet.excludeLanguages": [
+    "markdown",
+    "scss"
+  ],
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
@@ -39,7 +46,14 @@
     "typescript",
     "typescriptreact"
   ],
+  "files.associations": {
+    "CODEOWNERS*": "plaintext"
+  },
+  "less.validate": false,
   "prettier.requireConfig": true,
   "scss.validate": false,
-  "stylelint.validate": ["css", "scss"]
+  "stylelint.validate": [
+    "css",
+    "scss"
+  ]
 }
