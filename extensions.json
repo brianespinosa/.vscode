@@ -4,7 +4,10 @@
     "clinyong.vscode-css-modules",
     "codeandstuff.package-json-upgrade",
     "dbaeumer.vscode-eslint",
-    "mgmcdermott.vscode-language-babel",
+    "esbenp.prettier-vscode",
+    "mrmlnc.vscode-scss",
+    "ryanluker.vscode-coverage-gutters",
+    "stylelint.vscode-stylelint"
   ],
   "unwantedRecommendations": []
 }
